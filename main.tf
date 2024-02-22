@@ -1,1 +1,5 @@
-Test
+terraform {
+  required_providers {
+    
+  }
+}
